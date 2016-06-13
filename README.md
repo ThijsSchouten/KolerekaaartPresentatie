@@ -1,0 +1,2 @@
+# KolerekaaartPresentatie
+Presentatie afstudeerwerk Kolerekaart. 
